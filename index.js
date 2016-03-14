@@ -1,4 +1,4 @@
 var React = require('react-native');
 var { NativeModules } = React;
-var EasemobLibrary2 = NativeModules.EasemobLibrary;
-module.exports = EasemobLibrary2;
+var EasemobLibrary5567 = NativeModules.EasemobLibrary;
+module.exports = EasemobLibrary5567;
